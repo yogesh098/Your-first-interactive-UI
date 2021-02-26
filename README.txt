@@ -1,2 +1,2 @@
 My First Mobile Application = HELLO WORLD
-![Mobile Application Screenshot](screenshots/your.png)
+![Mobile Application Screenshot](Screenshot/your.png)
